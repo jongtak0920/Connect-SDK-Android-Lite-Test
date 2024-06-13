@@ -1,4 +1,4 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/ConnectSDK/Connect-SDK-Android-Core.git
+	url = https://github.com/jongtak0920/Connect-SDK-Android-Core-Test.git
 	branch = master
